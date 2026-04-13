@@ -62,7 +62,7 @@ Utilisateur → DNS → GCP (VM) → Nginx → WordPress → MariaDB → Volumes
 
 ## 📄 Documentation
 
-Le rapport complet du projet est disponible dans le dossier `/docs`.
+📄 [Voir le rapport complet du projet](docs/Projet_DevOps_WordPress_Docker_Nginx_GCP_David_Varela_2026.pdf)
 
 ---
 
